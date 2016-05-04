@@ -1,2 +1,4 @@
 *.less
 *.php
+
+/node_modules
