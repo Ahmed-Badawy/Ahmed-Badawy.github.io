@@ -1,0 +1,74 @@
+My name is ahmed badawy. 
+I'm 26 years old Egyptian (Developer & Expert Fullstack web developer). Over the last 5 years i have developed plenty of applications & websites with various programming languages (Java,PHP,Ruby on Rails,JavaScirpt).
+
+
+i'm currently Located in Cairo/Egypt
+B.Sc. in Computer Scince from mansora university & i got (6th place on class) 
+I know Arabic & English & (currently Learning German but the langualge proved to be chalenging so this might take few months)
+I can Drive & i'm NonSmoker 
+
+
+
+Spidro - Apr 2013 i Co-founded Spidro.com with a colledge friend of mine.
+Sprido that provided hosting services, web development and desktop applications services for my local area. 
+our main focus was to provide the local market with sales & clients managment system.
+
+
+EGprices.com startup company   Apr 2014 - Dec 2014  as a Backend developer (PHP,Laravel) Web Developer
+companies focus was to provide different bisnesses & shops with comparing prices & advertisement services. the system summary is 3 steps. -user search & choose item he likes -we output every thing there is to know about the item with every store's price for this item.
+- when user chooses a price/shop to buy from we provide him with the shop's contact data & website.
+
+
+i joined Edfa3ly.co as Full-Stack Web developer     Jan 2015 - Aug 2015
+is The fastest delivery service in egypt. egypt is a third world country so as expected we have a major problem in eshoping area. so Edfa3ly.co provides the user with an esear way to buy things online.
+ 	1. user Select Your desired Item and we will buy them for you 
+ 	2. We will ship your items and clear them from customs 
+	3. Get your items delivered to your doorstep 
+
+
+Erest.sa
+I worked as a Full-Stack Developer at erest.sa development company in jedda Saudi Arabia.
+their main focus was websites development for local companies. 
+I developed plenty of websites under their name.
+
+
+DRK
+I Worked as a remote Senior Web Developer at DRK.com.sa publication company in Saudi Arabia for 3 months i developed their whole system, added online eshoping system to their website, 
+i developed plenty of applications & systems for them. like 
+- clients management system 
+- emails automation system
+- a portal to paypal system for buying & selling online.
+- some robots to scan the internet for potential future clients email addresses & contact info.
+
+
+
+
+
+
+
+
+you are a global online takeaway food ordering marketplace
+you are Operating across five continents
+
+I know that your system enables users to place orders at local restaurants via its website or mobile app.
+
+Customers enter their postcodes on the site, browse for food from a list of restaurants, and place the order; foodpanda processes the order details, sends out an SMS to customers to confirm orders and their estimated delivery time, and passes the details to partner restaurants; and the restaurants deliver the food to customers.
+
+It is called foodpanda in Asia and Europe and hellofood in Africa, Latin America, and the Middle East. foodpanda has partnered with more than 60, 000 restaurants globally.
+
+foodpanda was launched in 2012 and is operated from Berlin, 
+
+// Germany with presence in over 40 countries and 500 cities across 5 continents.
+
+
+
+
+
+
+
+
+Fingers crossed, I hope everything went well.
+Hoping to be a member of foodpanda's work family.
+
+
+
