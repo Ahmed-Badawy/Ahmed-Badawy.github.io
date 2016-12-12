@@ -162,5 +162,20 @@ $(window).load(function(){
       $stretch.css({ height: $stretch.closest('.line').find('.content-wrap').outerHeight() });
     }); 
   });
+
+
+
+
+
+//Custom Code
+  $("#tecs li span").hover(
+      evt=>$(evt.target).toggleClass('tec_hovered')
+  ).click(evt=>{
+    // console.log(evt.target.innerText);
+    let url = `https://www.google.com.eg/search?q=what+is+${evt.target.innerText}`;
+    window.open(url,'_blank');
+  })
+
+
 });
 })(jQuery);

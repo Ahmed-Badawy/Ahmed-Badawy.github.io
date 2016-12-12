@@ -1,0 +1,31 @@
+#tecs li{
+	display: initial;
+	background-color: #333;
+	color:white;
+	padding:.5vh;
+	border-radius: 10px;
+	line-height: 35px;
+	transition: all .3s ease-out;
+}
+#tecs li:hover{
+	background-color: #eee;
+	color:#333;
+	cursor: pointer;
+	border:1px #222 dashed;
+}
+
+
+
+#tecs span{
+	padding:5px;
+}
+span.tec_hovered{
+	background-color: #3b658a;
+	color:white;
+	padding:5px;
+	border-radius: 10px;
+}
+
+
+
+

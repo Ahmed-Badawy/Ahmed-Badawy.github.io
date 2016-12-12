@@ -9,15 +9,14 @@ I can Drive & i'm NonSmoker
 
 
 
+
 Spidro - Apr 2013 i Co-founded Spidro.com with a colledge friend of mine.
 Sprido that provided hosting services, web development and desktop applications services for my local area. 
 our main focus was to provide the local market with sales & clients managment system.
 
-
 EGprices.com startup company   Apr 2014 - Dec 2014  as a Backend developer (PHP,Laravel) Web Developer
 companies focus was to provide different bisnesses & shops with comparing prices & advertisement services. the system summary is 3 steps. -user search & choose item he likes -we output every thing there is to know about the item with every store's price for this item.
 - when user chooses a price/shop to buy from we provide him with the shop's contact data & website.
-
 
 i joined Edfa3ly.co as Full-Stack Web developer     Jan 2015 - Aug 2015
 is The fastest delivery service in egypt. egypt is a third world country so as expected we have a major problem in eshoping area. so Edfa3ly.co provides the user with an esear way to buy things online.
